@@ -1,0 +1,42 @@
+{
+	"Custodian": "HR",
+	"Assets": [
+		{
+			"Location": "B11-5F-510A-HR",
+			"Asset": [
+				{ "InventoryNo": "HR00001800", "Decription": "0 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001801", "Decription": "1 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001802", "Decription": "2 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001803", "Decription": "3 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001804", "Decription": "4 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001805", "Decription": "5 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001806", "Decription": "6 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001807", "Decription": "7 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001808", "Decription": "8 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001809", "Decription": "9 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001810", "Decription": "10 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" },
+				{ "InventoryNo": "HR00001811", "Decription": "11 drawer mobile adsjkahd aoiweoi asdloi wioueoi asjdlkasjdo awioueiase asdasd", "Status": "ADDITIONAL" }
+			]
+		},
+		{
+			"Location": "B11-5F-511-HR",
+			"Asset": []
+		},
+		{
+			"Location": "B12-5F-512-MR-HR",
+			"Asset": []
+		},
+		{
+			"Location": "B12-5F-526-HR",
+			"Asset": []
+		},
+		{
+			"Location": "B14-3F-HR",
+			"Asset": []
+		},
+		{
+			"Location": "B4A-GF-DR1-HR",
+			"Asset": []
+		}
+	]
+}
